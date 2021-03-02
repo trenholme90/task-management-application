@@ -1,0 +1,16 @@
+.site-wrapper {
+	display: grid;
+	grid-template-columns: 60px auto 60px;
+}
+
+.container {
+	padding: 2em;
+}
+
+.hidden {
+	display: none;
+}
+
+.flex {
+	display: flex;
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"generateAccesstoken.js","sourceRoot":"","sources":["../../src/functions/generateAccesstoken.ts"],"names":[],"mappings":";;;;;AAAA,gEAA8B;AAG9B,SAAwB,mBAAmB,CAAC,QAAc;IACzD,MAAM,WAAW,GAAG,sBAAG,CAAC,IAAI,CAAC,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,mBAAmB,EAAE;QACvE,SAAS,EAAE,KAAK;KAChB,CAAC,CAAA;IACF,OAAO,WAAW,CAAA;AACnB,CAAC;AALD,sCAKC"}

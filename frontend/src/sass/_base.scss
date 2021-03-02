@@ -1,0 +1,35 @@
+:root {
+	--darkest-colour: hsl(0, 0%, 13%);
+	--accent-colour: #777777;
+	--accent-light-colour: #6c6a6a;
+	--accent-lightest-colour: #f3f1f3;
+	--success-colour: #18a918;
+	--error-colour: #ff0000;
+
+	font-size: 100%;
+
+	--base-spacing-unit: 12px;
+	--double-spacing-unit: 24px;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	margin: 0;
+}
+
+header {
+	margin-bottom: var(--double-spacing-unit);
+
+	@media screen and (min-width: 768px) {
+		text-align: center;
+	}
+}
+
+h1 {
+	font-size: 1em;
+}
+
+p {
+	margin: 0;
+}

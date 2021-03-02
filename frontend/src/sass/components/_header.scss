@@ -1,0 +1,22 @@
+.logo {
+	font-family: 'Kufam', cursive;
+	font-size: 2em;
+}
+
+.header {
+	display: flex;
+	padding: 1em;
+	font-size: 1.5em;
+
+	nav {
+		display: flex;
+		width: 100%;
+		align-items: center;
+		justify-content: flex-end;
+
+		li {
+			display: inline-block;
+			margin-right: 0.5em;
+		}
+	}
+}
